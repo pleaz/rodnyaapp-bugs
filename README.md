@@ -9,7 +9,7 @@
 
 ## How to report a bug
 
-[Open a new issue](https://github.com/pleaz/rodnyaapp-bugs/issues/new/choose) and pick the appropriate template:
+Open an issue here → [github.com/pleaz/rodnyaapp-bugs/issues](https://github.com/pleaz/rodnyaapp-bugs/issues) and pick the appropriate template:
 
 - **Bug report** — something is broken or behaving unexpectedly
 - **Feedback** — general UX, suggestions, or anything that felt off
@@ -20,8 +20,4 @@ Please include:
 - What you expected vs. what actually happened
 - Screenshot or screen recording if possible
 
----
-
-## Contact
-
-If you'd prefer not to use GitHub issues, email: **rodnya@iha6.com**
+Or just email: **rodnya@iha6.com**
