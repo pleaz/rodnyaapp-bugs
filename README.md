@@ -24,4 +24,4 @@ Please include:
 
 ## Contact
 
-If you'd prefer not to use GitHub issues, email: **support@rodnya.app**
+If you'd prefer not to use GitHub issues, email: **rodnya@iha6.com**
