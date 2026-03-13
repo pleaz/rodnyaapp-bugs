@@ -1,0 +1,40 @@
+name: Bug Report
+description: Something is broken or behaving unexpectedly
+labels: ["bug"]
+body:
+  - type: input
+    id: device
+    attributes:
+      label: Device & OS
+      description: Your device model and OS version
+      placeholder: e.g. Samsung Galaxy S23, Android 14
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do before the issue happened?
+      placeholder: |
+        1. Opened the app
+        2. Tapped "Call" on a contact
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected vs actual behavior
+      placeholder: |
+        Expected: call screen appeared
+        Actual: app crashed
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots / recordings
+      description: Attach anything that helps (drag & drop here)
