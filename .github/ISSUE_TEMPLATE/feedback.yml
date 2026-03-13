@@ -1,0 +1,25 @@
+name: Feedback
+description: General UX, suggestions, or anything that felt off
+labels: ["feedback"]
+body:
+  - type: input
+    id: device
+    attributes:
+      label: Device & OS
+      placeholder: e.g. Pixel 7, Android 13
+    validations:
+      required: false
+
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Your feedback
+      description: What felt off, confusing, or could be better?
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else
+      description: Screenshots, comparisons with other apps, etc.
